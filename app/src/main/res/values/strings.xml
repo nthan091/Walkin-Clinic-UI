@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Walkin-Clinic-UI</string>
+    <string name="Login_page">Login</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="username_field" />
+    <string name="login_button">LOG IN</string>
+    <string name="title_activity_create_account">CreateAccountActivity</string>
+    <string name="create_account_page">Create Account</string>
+    <string name="email_field">Enter your email account</string>
+    <string name="enter_email_field">Email</string>
+    <string name="username_label">Enter a username</string>
+    <string name="password_label">Enter a password</string>
+    <string name="confirm_password_label">Confirm you password</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="account_page_button">Create Account</string>
+    <string name="account_type_label">Select an Account Type</string>
+
+    <string-array name="accounts">
+        <item>admin</item>
+        <item>employee</item>
+        <item>patient</item>
+    </string-array>
+</resources>
